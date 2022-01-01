@@ -5,7 +5,7 @@ This is an auto script to search, scrape and scan for Apache Log4j CVE-2021-4422
 ```shell
 git clone https://github.com/JagarYousef/log4j-dork-scanner
 cd  log4j-dork-scanner
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 - ### Scanning:
